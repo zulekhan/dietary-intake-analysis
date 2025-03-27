@@ -43,7 +43,7 @@ This table explains the key variables used in this analysis.
 
 
 ## **How to Set up and Run This Notebook**
-This project was developed using **Jupyter Notebook** with **Python 3.12.13** (ipykernel). All necessary dependencies are listed in the `requirements.txt` file.
+This project was developed using **Jupyter Notebook** with **Python 3.12.6** (ipykernel). All necessary dependencies are listed in the `requirements.txt` file.
 
 ### **Steps to Set Up and Run the Project**
 
