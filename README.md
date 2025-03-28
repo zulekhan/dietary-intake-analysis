@@ -1,4 +1,5 @@
 # **Gender Differences in Dietary Intake**
+![image](https://github.com/user-attachments/assets/84a90e96-7101-433c-bf83-2198cf264ed2)
 
 ## **Project Overview**
 This project analyzes gender-based differences in dietary intake using data from the **National Health and Nutrition Examination Survey (NHANES)**. The goal is to determine whether males and females have significantly different consumption patterns for **calories, protein, carbohydrates, and fats**.
